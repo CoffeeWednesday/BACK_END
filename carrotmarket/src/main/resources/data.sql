@@ -1,0 +1,1 @@
+insert into TBL_MEMBER (USERID, USERPW, USERNAME) values ('kgy94329', 'q1w2e3r4', '권구영')

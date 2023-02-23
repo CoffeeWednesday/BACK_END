@@ -1,13 +1,13 @@
-package com.carrotmarket.clone;
+package com.clone.carrotmarket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloneApplication {
+public class CarrotmarketApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CloneApplication.class, args);
+		SpringApplication.run(CarrotmarketApplication.class, args);
 	}
 
 }
